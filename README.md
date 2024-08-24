@@ -21,8 +21,8 @@ _With the functionality of_ ⏳(**_Processing Speed Control_**)  _and_   📏(**
 
 ## 📷 ScreenShots 
 ------------------
-![image](https://drive.google.com/file/d/1i9JpoB8oajZw8KPUqsaFSOVui9O7ncRu/view?usp=sharing)
-![image](https://drive.google.com/file/d/1tIFnMduvjWfQ_bthoLaNxVYG_5kpya33/view?usp=sharing)
-![image](https://drive.google.com/file/d/16ZKsaoGZR1rz55yuj3rpU9rs1ZMgYe2l/view?usp=sharing)
+![image](https://github.com/Muszic/sorting-visualiser/blob/main/img/pic-1.png)
+![image](https://github.com/Muszic/sorting-visualiser/blob/main/img/pic-2.png)
+![image](https://github.com/Muszic/sorting-visualiser/blob/main/img/pic-3.png)
 
 **_ made by Sangeet(email-allaboutsangit@gmail.com)
